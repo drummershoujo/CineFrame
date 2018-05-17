@@ -5,7 +5,7 @@ Written to run on a Raspberry Pi running Raspian Jessie. If want to run on PC, w
 
 My Pi is connected to a 7" touchscreen: https://www.adafruit.com/product/2718?gclid=EAIaIQobChMI4v2B74CM2wIVBb3sCh0WPwllEAQYAiABEgL8CfD_BwE
 
-Uses the gifAnimation library from this GitHub:  https://github.com/01010101/GifAnimation
+Uses the gifAnimation library by @01010101:  https://github.com/01010101/GifAnimation
 Note: If running on the Linux version of Processing 3, will need to change the name of "GifAnimation.jar" file to lowercase 'g'.
 
 Tilt Sensor used:
@@ -20,7 +20,9 @@ To stop playback put the frame back down to deactivate tilt sensor.
 To change to a different cinemagraph, left-click a mouse or use the left/right arrow keys.
 
 ## Credits
-SW & HW Design & Development: Charlene Atlas
-Cinemagraphs:
-  chopard.gif - Cinemagraph Credit: Kevin Burg and Jamie Beck, cinemagraphs.com
-  galaxycoffee.gif - https://giphy.com/gifs/cinemagraph-galaxy-milkyway-HoADeTqE24Ce4
+
+**SW & HW Design & Development**: Charlene Atlas
+
+**Cinemagraphs:**
+*chopard.gif - Cinemagraph Credit: Kevin Burg and Jamie Beck, cinemagraphs.com
+*galaxycoffee.gif - https://giphy.com/gifs/cinemagraph-galaxy-milkyway-HoADeTqE24Ce4
