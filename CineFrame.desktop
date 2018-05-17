@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=CineFrame
+Exec=/home/pi/processing-3.3.7/processing-java --sketch=/home/pi/sketchbook/CinemagraphTiltControl --present  
+Icon=/home/pi/Pictures/CineFrame_logo.png
+Type=Application
