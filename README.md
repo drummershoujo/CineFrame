@@ -24,9 +24,13 @@ To change to a different cinemagraph, left-click a mouse or use the left/right a
 **SW & HW Design & Development**: Charlene Atlas
 
 **Cinemagraphs:**
+
 *chopard.gif* - Cinemagraph Credit: Kevin Burg and Jamie Beck, cinemagraphs.com
+
 *galaxycoffee.gif* - https://giphy.com/gifs/cinemagraph-galaxy-milkyway-HoADeTqE24Ce4
 
 **Software Components**
+
 Processing - http://processing.org
+
 GifAnimation library - https://github.com/01010101/GifAnimation
