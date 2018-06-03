@@ -29,7 +29,7 @@ To change to a different cinemagraph, left-click a mouse or use the left/right a
 
 *galaxycoffee.gif* - https://giphy.com/gifs/cinemagraph-galaxy-milkyway-HoADeTqE24Ce4
 
-**Software Components**
+**Software Components:**
 
 Processing - http://processing.org
 
